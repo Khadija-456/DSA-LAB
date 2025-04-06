@@ -1,4 +1,4 @@
-                          //----------EXAMPLE 2.1----------
+//----------EXAMPLE 2.1----------
 //#include <iostream>
 //#include <cstdlib>
 //#include "stack.h"

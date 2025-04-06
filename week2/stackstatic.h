@@ -1,4 +1,4 @@
-                     //------------EXAMPLE 2.1-----------------
+//------------EXAMPLE 2.1-----------------
 //#pragma once
 //#define Max_items 100  
 //typedef int itemtype;

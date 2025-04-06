@@ -1,5 +1,5 @@
-                          // -------EXAMPLE 2.2----------
-                          //      template class
+// -------EXAMPLE 2.2----------
+//      template class
 //#pragma once
 //
 //template<typename itemtype>
