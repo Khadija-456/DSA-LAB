@@ -1,6 +1,6 @@
 Description
 
-This project contains various C++ programming examples, including classes, templates, file handling, and exercises that demonstrate key concepts in object-oriented programming and data manipulation.
+This project contains various C++ programming examples, including classes, templates, file handling, and exercises that demonstrate key concepts in object - oriented programming and data manipulation.
 
 Table of Contents
 
@@ -16,15 +16,15 @@ Exercise 1.2 - Finding Minimum Using Class Templates
 
 Example 1.5 - Template Class with Fixed Size Array
 
-Example 1.6 - File Handling (Character Count)
+Example 1.6 - File Handling(Character Count)
 
-Example 1.7 - File Handling (Student Data Processing)
+Example 1.7 - File Handling(Student Data Processing)
 
 Exercise 1.1 - Complex Number Multiplication
 
 Exercise 1.3 - Template Class with GetMax and GetMin
 
-Exercise 1.4 - File Handling (Counting Words, Sentences, Characters)
+Exercise 1.4 - File Handling(Counting Words, Sentences, Characters)
 
 Exercise 1.6 - Student Grade Management System
 
